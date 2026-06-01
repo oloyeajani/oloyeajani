@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋 My name is Abdulrahman Ajani. I am a data Engineer/Oracle technical Consultant
 
 <!--
 **oloyeajani/oloyeajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on improving my knowledge in data engineering
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
